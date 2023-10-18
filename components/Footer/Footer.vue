@@ -62,7 +62,7 @@ const { footerLinks } = defineProps({
 })
 
 
-console.log(footerLinks)
+// console.log(footerLinks)
 
 
 </script>

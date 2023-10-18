@@ -2,7 +2,7 @@ export interface Language {
   name: string;
   language: string;
   languageCode: string;
-  url: string | null;
+  url: string ;
   target: string | null;
   icon: string | null;
   image: string | null;
