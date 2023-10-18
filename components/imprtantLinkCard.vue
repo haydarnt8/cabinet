@@ -1,6 +1,6 @@
 <template>
-    
-    <div class="rounded-xl w-full md:w-5/12 h-full flex flex-col overflow-hidden">
+
+    <div class="rounded-xl w-full md:w-1/4 h-full flex flex-col overflow-hidden">
         <div dir="rtl" class=" text-2xl p-3" style="
         background-image: linear-gradient(hsla(0,0%,100%,.7),hsla(0,0%,100%,.7)),url('http://164.92.187.207:5007/_nuxt/img/stars.4d8d60b.png');
         background-size: 64px;
